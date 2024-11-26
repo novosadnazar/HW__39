@@ -1,0 +1,237 @@
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+   outline: 2px solid green;
+   border-radius: 10px;
+}
+
+.hero{
+    padding-top: 300px;
+    padding-bottom: 300px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./img/hero-fon.jpeg)
+}
+
+.hero-title {
+    width: 507px;
+    color: #FFF;
+text-align: center;
+font-family: "Montserrat";
+font-size: 52.046px;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+margin: 0 auto;
+margin-bottom: 36px;
+}
+
+.hero-btn {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    border: none;
+    background-color: green;
+    border-radius: 15px;
+
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    align-items: baseline;
+    justify-content: center;
+
+}
+
+.card {
+    padding-top: 20px;
+}
+
+.but {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+.list2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colab {
+    
+    gap: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+justify-content: center;
+align-items: center;
+}
+
+.title{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.form {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    outline: 2px solid green;
+    border-radius: 10px;
+}
+
+.footer {
+    background-color:  #4C5F22;
+    color: #f0f0f0;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  
+  .footer-about {
+    flex: 1 1 200px;
+  }
+  
+  .footer-logo {
+    width: 150px;
+    color: white;
+    margin-bottom: 10px;
+    text-decoration-line: none;
+  }
+  
+  .footer-about p {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .footer-nav {
+    flex: 1 1 200px;
+  }
+  
+  .footer-nav h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #dcdcdc;
+  }
+  
+  .footer-nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-nav li {
+    margin: 5px 0;
+  }
+  
+  .footer-nav a {
+    text-decoration: none;
+    color: #f0f0f0;
+    transition: color 0.3s;
+  }
+  
+  .footer-nav a:hover {
+    color: #d3d3d3;
+  }
+  
+
+  .footer-social {
+    flex: 1 1 200px;
+  }
+  
+  .footer-social h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #dcdcdc;
+  }
+  
+  .social-icons {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-icons li {
+    margin: 5px 0;
+  }
+  
+  .social-icons a {
+    text-decoration: none;
+    color: #f0f0f0;
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #d3d3d3;
+  }
+
+  .footer-subscribe {
+    flex: 1 1 200px;
+  }
+  
+  .footer-subscribe h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #dcdcdc;
+  }
+  
+  .footer-subscribe input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .footer-subscribe button {
+    background-color: green; 
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .footer-subscribe button:hover {
+    background-color: #4C5F22;
+  }
+  
+ 
+  .footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #dcdcdc;
+  }
+  
+  .footer-bottom a {
+    color: #f0f0f0;
+    text-decoration: underline;
+    transition: color 0.3s;
+  }
+  
+  .footer-bottom a:hover {
+    color: #d3d3d3;
+  }
+
+  
